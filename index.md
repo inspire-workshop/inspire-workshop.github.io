@@ -85,6 +85,7 @@ Submission link: <a href="{{ site.call.submissions.url }}">{{ site.call.submissi
             <li>
                 <a href="{{ speaker.url | relative_url }}" target="_blank">{{ speaker.name }}</a>
             </li>
+            <li>{{ speaker.confirmation}}</li>
             <li>{{ speaker.role }}</li> 
             <li>{{ speaker.organization }}</li> 
             <li>{{ speaker.country }}</li>
@@ -176,7 +177,7 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>08:30 AM</div>
-        <div>Sensing</div>
+        <div>Sensing: Hermann Blum, Antonella Barišić, (Martin Saska)</div>
         <div></div>
     </div>
     <div class="program-row">
@@ -191,12 +192,12 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>10:30 AM</div>
-        <div>Information theory</div>
+        <div>Information theory: Graeme Best</div>
         <div></div>
     </div>
     <div class="program-row">
         <div>11:00 AM</div>
-        <div>Planning</div>
+        <div>Planning: Hyondong Oh, Nare Karpetyan, (Jen Jen Chung)</div>
         <div></div>
     </div>
     <div class="program-row">
@@ -211,7 +212,7 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>02:00 PM</div>
-        <div>Mapping</div>
+        <div>Mapping: Lukas Schmid, Marco Hutter</div>
         <div></div>    
     </div>
     <div class="program-row">
@@ -226,12 +227,12 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>03:30 PM</div>
-        <div>Panel discussion</div>
+        <div>Panel discussion: TBA</div>
         <div></div>    
     </div>
     <div class="program-row">
         <div>04:30 PM</div>
-        <div>Industry</div>
+        <div>Industry: Peter Karkus, Ali-akbar Agha-Mohammadi</div>
         <div></div>
     </div>
     <div class="program-row">

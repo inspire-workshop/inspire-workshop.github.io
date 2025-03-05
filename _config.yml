@@ -15,54 +15,84 @@ speakers:
     organization: University of Bonn
     country: Germany
     url: https://scholar.google.com/citations?user=2Pxx8QIAAAAJ&hl=en&oi=ao
+    confirmation: (In-person)
   - name: Antonella Barišić Kulaš
     photo_url: /assets/images/speakers/placeholder.jpg
     role: PhD Student
     organization: University of Zagreb
     country: Croatia
     url: https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao
+    confirmation: (In-person)
   - name: Graeme Best
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Lecturer
     organization: University of Technology Sydney
     country: Australia
     url: https://scholar.google.com/citations?user=wPseTqoAAAAJ&hl=en
+    confirmation: (In-person)
   - name: Shumon Koga
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Staff Engineer
     organization: Honda Research and Development
     country: Japan
     url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
+    confirmation: (Online)
   - name: Hyondong Oh
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Associate Professor
     organization: Ulsan National Institute of Science and Technology
     country: South Korea
     url: https://scholar.google.com/citations?user=q_Pbm3kAAAAJ&hl=en
+    confirmation: (In-person)
   - name: Nare Karapetyan
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Assistant Scientist
     organization: Woods Hole Oceanographic Institute (WHOI)
     country: USA
     url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
+    confirmation: (In-person)
   - name: Jen Jen Chung
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Associate Professor
     organization: The University of Queensland
     country: Australia
     url: https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao
+    confirmation: (Online)
   - name: Lukas Schmid
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Postdoctoral research fellow
     organization: Massachusetts Institute of Technology
     country: USA
     url: https://scholar.google.com/citations?user=r79fGI0AAAAJ&hl=en&oi=ao
+    confirmation: (In-person)
+  - name: Peter Karkus
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Research Scientist
+    organization: NVIDIA Research
+    country: USA
+    url: https://scholar.google.com/citations?user=cjUid0YAAAAJ
+    confirmation: (In-person)
   - name: Ali-akbar Agha-mohammadi
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Robotics Technologist
     organization: NASA Jet Propulsion Laboratory
     country: USA
     url: https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en&oi=ao
+    confirmation: (In-person)
+  - name: Martin Saska
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate Professor
+    organization: Czech Technical University
+    country: Prague
+    url: https://scholar.google.cz/citations?user=5PBYoTsAAAAJ&hl=cs
+    confirmation: (Pending confirmation)
+  - name: Marco Hutter
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate Professor
+    organization: ETH Zürich
+    country: Switzerland
+    url: https://scholar.google.ch/citations?user=DO3quJYAAAAJ&hl=en
+    confirmation: (Pending confirmation)
 
 panelists:
   - name: TBA
@@ -79,6 +109,12 @@ organizers:
     organization: Delft University of Technology
     country: Netherlands
     url: https://www.tudelft.nl/en/staff/m.popovic/?cHash=9c4e89537f3df185c588b06c8bece9d2
+  - name: David Morilla-Cabello
+    photo_url: /assets/images/organizers/david.jpg
+    role: PhD Student
+    organization: Universidad de Zaragoza
+    country: Spain
+    url: https://dvdmc.github.io/
   - name: Carlos Nieto-Granda
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Research Scientist
@@ -97,6 +133,12 @@ organizers:
     organization: University of Bonn
     country: Germany
     url: https://www.ipb.uni-bonn.de/people/julius-rueckin
+  - name: Eduardo Montijano
+    photo_url: /assets/images/organizers/eduardo.jpg
+    role: Associate Professor
+    organization: Universidad de Zaragoza
+    country: Spain
+    url: https://sites.google.com/unizar.es/eduardo-montijano
   - name: Mykel Kochenderfer
     photo_url: /assets/images/organizers/mykel.jpg
     role: Associate Professor
@@ -109,18 +151,6 @@ organizers:
     organization: Stanford University
     country: USA
     url: https://profiles.stanford.edu/fadhil-ginting
-  - name: Eduardo Montijano
-    photo_url: /assets/images/organizers/eduardo.jpg
-    role: Associate Professor
-    organization: Universidad de Zaragoza
-    country: Spain
-    url: https://sites.google.com/unizar.es/eduardo-montijano
-  - name: David Morilla-Cabello
-    photo_url: /assets/images/organizers/david.jpg
-    role: PhD Student
-    organization: Universidad de Zaragoza
-    country: Spain
-    url: https://dvdmc.github.io/
 
 institutions:
   - name: TU Delft
